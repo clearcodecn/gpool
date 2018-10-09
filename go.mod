@@ -1,1 +1,1 @@
-module gpool
+module github.com/clearcodecn/gpool
